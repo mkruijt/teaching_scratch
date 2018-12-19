@@ -2,13 +2,13 @@
 course material/ inspiration and metaphors for teaching scratch to children.
 
 ## What can you find in this document?
-1. Setup (a bit about basic setup and structure in the classes)
-2. Class1 // Walk the cat 😻
-3. Class2 // Make a conversation 💬
-4. Class3 // Make a game 🎲
-5. Class4 // Program an instrument 🥁
-6. Class5 // Make a (personalized) Christmas card ☃️
-7. Class6 // "Aapenkooien" make a maze or obstacle/parkour game. 🐒
+1. [Setup (a bit about basic setup and structure in the classes)](#setup)
+2. [Class1 // Walk the cat 😻](#walk-the-cat-)
+3. [Class2 // Make a conversation 💬](#make-a-converstation-)
+4. [Class3 // Make a game 🎲](#make-a-game-)
+5. [Class4 // Program an instrument 🥁](#program-an-intsrument-)
+6. [Class5 // Make a (personalized) Christmas card ☃️](#make-a-personalized-christmas-card-)
+7. [Class6 // "Aapenkooien" make a maze or obstacle/parkour game 🐒](#apenkooien-make-a-maze-or-obstacleparkour-game-)
 
 # Setup:
 
